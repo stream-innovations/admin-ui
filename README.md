@@ -14,7 +14,7 @@
 </h4>
 
 <p align="center">
-An open-source composable commerce engine built for developers.
+An open source composable commerce engine built for developers.
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
@@ -31,6 +31,12 @@ An open-source composable commerce engine built for developers.
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=medusajs">
+    <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
+  </a>
+</p>
+
+## The StreamPay Admin App. Included with the [`@medusajs/admin`](https://www.npmjs.com/package/@medusajs/admin) plugin. You shouldn't install this package separately.
+intent/follow?screen_name=medusajs">
     <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
   </a>
 </p>
