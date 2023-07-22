@@ -1,20 +1,20 @@
 <p align="center">
-  <a href="https://www.medusajs.com">
-    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+  <a href="https://www.streampayments.app">
+    <img alt="A Headless eCommerce Platform" src="https://i.imgur.com/xcmTyPZ.png" width="100" />
   </a>
 </p>
 <h1 align="center">
-  @medusajs/admin-ui
+  @stream-pay/admin-ui
 </h1>
 
 <h4 align="center">
-  <a href="https://docs.medusajs.com">Documentation</a> |
-  <a href="https://demo.medusajs.com/">Medusa Admin Demo</a> |
-  <a href="https://www.medusajs.com">Website</a>
+  <a href="https://docs.streamcommerce.app/">Documentation</a> |
+  <a href="https://demo.streamcommerce.app/">StreamPay Admin Demo</a> |
+  <a href="https://www.streamcommerce.app">Website</a>
 </h4>
 
 <p align="center">
-An open source composable commerce engine built for developers.
+An open-source composable commerce engine built for developers.
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
