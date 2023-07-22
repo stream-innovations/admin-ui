@@ -80,7 +80,7 @@
     "vite": "^4.1.4"
   },
   "peerDependencies": {
-    "@medusajs/medusa": "^1.12.0"
+    "@medusajs/medusa": "^1.12.3"
   },
   "devDependencies": {
     "@medusajs/medusa": "^1.12.3",

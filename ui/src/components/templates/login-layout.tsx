@@ -23,7 +23,7 @@ const PublicLayout = ({ children }: PropsWithChildren) => {
 
 const Logo = () => {
   return (
-    <div className="w-5xlarge h-5xlarge flex items-center justify-center rounded-full bg-gradient-to-t from-[#26292B] via-[#151718] to-[#151718]">
+    <div className="w-5xlarge h-5xlarge flex items-center justify-center rounded-full bg-gradient-to-t from-[#060d13] via-[#12283a] to-[#12283a]">
       <SVG />
     </div>
   )
